@@ -33,7 +33,7 @@ To run the Book Library web app, you'll need the following:
   
 - Copy code
   
-- git clone https://github.com/your-username/book-library-web-app.git
+- git clone 
   
 - Open the project folder using your preferred code editor.
 

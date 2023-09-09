@@ -1,4 +1,5 @@
-Book Library Web App
+# <span style= "font-weight:bold">Book Library Web App</span>
+
 Welcome to our Book Library web app, a haven for book enthusiasts like you! Immerse yourself in the world of literature as you embark on a journey to explore and uncover new books through captivating previews. With an array of features carefully crafted to elevate your book discovery experience, we invite you to indulge in the joy of reading like never before.
 
 Features

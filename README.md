@@ -12,21 +12,30 @@ Welcome to our Book Library web app, a haven for book enthusiasts like you! Imme
 
 ## <span style= "font-weight:bold">Book Search</span>
 
-🔍 Title Search: Find books quickly by entering the book's title.
-🔍 Author Search: Search for books by your favorite authors. Enter the author's name, and Book-Connect will provide you with a list of books authored by them.
-🔍 Genre Search: Looking for books in a specific genre? Book-Connect allows you to browse books by genre. Just select your preferred genre from the dropdown menu, and you'll discover a wide range of books in that category.
+🔍 **Title Search:** Find books quickly by entering the book's title.
+
+🔍 **Author Search:** Search for books by your favorite authors. Enter the author's name, and Book-Connect will provide you with a list of books authored by them.
+
+🔍 **Genre Search:** Looking for books in a specific genre? Book-Connect allows you to browse books by genre. Just select your preferred genre from the dropdown menu, and you'll discover a wide range of books in that category.
 
 ## <span style= "font-weight:bold">Requirements</span>
 To run the Book Library web app, you'll need the following:
 
--A compatible web browser (e.g., Chrome, Firefox, Edge)
--A stable internet connection
--Getting Started
--Clone this repository to your local machine.
--shell
--Copy code
--git clone https://github.com/your-username/book-library-web-app.git
--Open the project folder using your preferred code editor.
+- A compatible web browser (e.g., Chrome, Firefox, Edge)
+
+- A stable internet connection
+  
+- Getting Started
+  
+- Clone this repository to your local machine.
+  
+- shell
+  
+- Copy code
+  
+- git clone https://github.com/your-username/book-library-web-app.git
+  
+- Open the project folder using your preferred code editor.
 
 Launch the app by opening the index.html file in your web browser.
 
